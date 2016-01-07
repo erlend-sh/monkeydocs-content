@@ -1,5 +1,5 @@
 ---
-title: Android Support in the jMonkeyEngine
+title: Android Supporterino in the jMonkeyEngine
 ---
 <h1 class="sectionedit1" id="android_support_in_the_jmonkeyengine">Android Support in the jMonkeyEngine</h1>
 <div class="level1">
@@ -294,7 +294,7 @@ Although you will use android specific api, using a camera is not exactly androi
 </p>
 
 <p>
-Note that you have to build the whole project once to make (new) classes in the main project available to the android part. 
+Note that you have to build the whole project once to make (new) classes in the main project available to the android part.
 </p>
 
 </div>
